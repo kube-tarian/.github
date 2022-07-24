@@ -1,2 +1,2 @@
 # .github
-github org description readme
+IntelOps github org description readme

@@ -13,9 +13,13 @@
 
 ### Quality Trace
 
+### NativeTest 
+
 ### KubeScan
 
 ### Fixer
+
+### Kubetak
 
 ### Compage 
 
@@ -30,3 +34,7 @@
 ### TalOS Integration and Orchestration - GoLang CLI
 
 ### K3s golang cli
+
+### Agile Bridge
+
+### Tagem

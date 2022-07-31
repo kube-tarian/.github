@@ -1,4 +1,4 @@
-# Welcome to IntelOps opensource Github Org
+# Welcome to IntelOps, Inc. opensource Github Org
 
 
 ### Tarian
